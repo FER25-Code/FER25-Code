@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/FER25-Code/FER25-Code/master/developer.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+
+
 ### Hi there 👋
 
 
