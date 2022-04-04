@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/FER25-Code/FER25-Code/master/developer.png" alt="banner that says Fergani">
+<img src="https://raw.githubusercontent.com/FER25-Code/FER25-Code/master/developer.jpg" alt="banner that says Fergani">
 
 
 ### Hi there 👋
