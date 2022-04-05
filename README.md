@@ -25,7 +25,7 @@ I'm a software engineer i have a deep understanding of many technical subjects. 
 </div>  
   
   <div style="display: inline_block"><br>
-     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/FER25-Code/FER25-Code/blob/main/android.svg">
-     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/FER25-Code/FER25-Code/blob/main/spring boot.svg">
-     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/FER25-Code/FER25-Code/blob/main/mysql.svg">
+     <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/android.svg">
+     <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/spring boot.svg">
+     <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/mysql.svg">
 </div>
