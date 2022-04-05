@@ -24,10 +24,10 @@ I'm a software engineer i have a deep understanding of many technical subjects. 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FER25-Code&layout=compact&langs_count=7&theme=dark"/>
 </div>  
   <div style="display: inline_block"><br>
-     <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/java-logo.svg">
+     <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/logojava.png"> 
      <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/spring boot.svg">
-     <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/flutter.svg">
      <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/android.svg">
-     <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/logolar.png"> 
+     <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/flutter.svg">
+     <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/logolaravel.png"> 
      <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/mysql.svg">
 </div>
