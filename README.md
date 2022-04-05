@@ -18,12 +18,12 @@ I'm a software engineer i have a deep understanding of many technical subjects. 
 - Sharing updates on <a href="https://www.linkedin.com/in/fergani-dia-el-eddine-8575b1151/">LinkedIn</a> 💼
 
 ## My Github status
-
 <div align="center">
   <a href="https://github.com/FER25-Code">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=FER25-Code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FER25-Code&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
