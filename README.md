@@ -11,7 +11,8 @@ I'm a software engineer i have a deep understanding of many technical subjects. 
 * ⛁ Sql, Mysql, Nosql
 * 📊 Excel
 
-## Examples of work 
+## Examples of last work 
+* 📱 Flutter
 <img src="https://github.com/FER25-Code/LoginFlutter/blob/master/loginpage.png" width="256"/>
 
 ## Find me around the web 🌎:
