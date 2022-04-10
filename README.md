@@ -13,7 +13,7 @@ I'm a software engineer i have a deep understanding of many technical subjects. 
 
 ## Examples of last work 
 * 📱 Flutter
-<img src="https://github.com/FER25-Code/LoginFlutter/blob/master/loginpage.png" width="256"/>
+<img src="https://github.com/FER25-Code/E-commerce-Flutter/blob/main/assets/images/Appflutter.gif" width="256"/>
 
 ## Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/fergani-dia-el-eddine-8575b1151/">LinkedIn</a> 💼
