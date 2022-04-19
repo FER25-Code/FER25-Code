@@ -6,7 +6,7 @@
 I'm a software engineer i have a deep understanding of many technical subjects. I am a passionate open source developer. I love to be creative and inventive.
 
 ## Skills and Experience
-* 📱 Android 
+* 📱 Android & Flutter
 * 💻 Java, JavaFX, Spring Boot
 * ⛁ Sql, Mysql, Nosql
 * 📊 Excel
