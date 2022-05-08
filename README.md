@@ -11,12 +11,22 @@ I'm a software engineer i have a deep understanding of many technical subjects. 
 * ⛁ Sql, Mysql, Nosql
 * 📊 Excel
 
+
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+ <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+
+
 ## Examples of last work 
 * 📱 Flutter
 <img src="https://github.com/FER25-Code/E-commerce-Flutter/blob/main/assets/images/Appflutter.gif" width="256"/>
 
 ## Find me around the web 🌎:
-- Sharing updates on <a href="https://www.linkedin.com/in/fergani-dia-el-eddine-8575b1151/">LinkedIn</a> 💼
+
+- <p align="left"> <a href="https://www.linkedin.com/in/fergani-dia-el-eddine-8575b1151/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+- <p align="left"> <a href="https://www.facebook.com/ramy.fergani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></p>
 
 ## My Github status
 <div align="center">
@@ -24,11 +34,6 @@ I'm a software engineer i have a deep understanding of many technical subjects. 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FER25-Code&show_icons=true&theme=dark&include_all_commits=true&      count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FER25-Code&layout=compact&langs_count=7&theme=dark"/>
 </div>  
-  <div style="display: inline_block"><br>
-     <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/logojava.png"> 
-     <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/spring boot.svg">
-     <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/android.svg">
-     <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/flutter.svg">
-     <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/logolaravel.png"> 
-     <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/FER25-Code/FER25-Code/blob/main/mysql.svg">
-</div>
+  
+
+
